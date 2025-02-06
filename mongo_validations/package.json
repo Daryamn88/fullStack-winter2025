@@ -1,0 +1,22 @@
+{
+    "name": "mango_validations",
+    "version": "1.0.0",
+    "description": "Mongoose Schema Validation",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "mongoose",
+        "mongodb",
+        "schema",
+        "validation"
+    ],
+    "author": "Jigisha Patel",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.21.2",
+        "mongoose": "^5.13.23",
+        "nodemon": "^3.1.9"
+    }
+}
